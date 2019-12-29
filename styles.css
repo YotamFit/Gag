@@ -1,0 +1,16 @@
+body {
+  background-image:url("teemobg.png");
+}
+.container-fluid {
+  text-align: center;
+}
+.contact-page {
+  margin-top: 5%;
+  text-align: center;
+  font-size: 1.3rem;
+}
+.jeff {
+  position: relative;
+  right: 35%;
+  bottom: 10rem;
+}
